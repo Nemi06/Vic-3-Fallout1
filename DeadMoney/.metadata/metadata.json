@@ -2,7 +2,7 @@
   "name" : "Dead Money Repo",
   "id" : "",
   "version" : "0.0.2",
-  "supported_game_version": "1.5.5",
+  "supported_game_version": ",
   "short_description" : "Bringing the (extremely early proof of concept) Fallout wasteland to Victoria 3",
   "tags" : [],
   "relationships" : [],
@@ -41,6 +41,7 @@
      	"events/agitators_events",
       	"events/american_civil_war",
 	"map_data/state_regions",
+		
 	"map_data"
     ]
   }
