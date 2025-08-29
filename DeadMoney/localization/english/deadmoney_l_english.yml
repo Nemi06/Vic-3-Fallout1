@@ -1,0 +1,16 @@
+l_english:
+  clean_water: "Clean Water"
+  scrap: "Scrap"
+  ammo: "Ammunition"
+  canned_food: "Canned Food"
+  energy_cells: "Energy Cells"
+  meds: "Medicine"
+
+  building_water_purifier: "Water Purifier"
+  building_scrapyard: "Scrapyard"
+  building_clinic: "Clinic"
+
+  pm_simple_filters: "Simple Filters"
+  pm_advanced_filters: "Advanced Filters"
+  pm_basic_recycling: "Basic Recycling"
+  pm_clinic: "Clinic"
