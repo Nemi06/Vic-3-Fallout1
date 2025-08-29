@@ -1,0 +1,22 @@
+pm_simple_filters = {
+  building = building_water_purifier
+  base_building_output = { good = clean_water amount = 20 }
+  base_building_input  = { good = scrap       amount = 5 }
+}
+
+pm_advanced_filters = {
+  building = building_water_purifier
+  base_building_output = { good = clean_water amount = 50 }
+  base_building_input  = { good = scrap       amount = 20 }
+}
+
+pm_basic_recycling = {
+  building = building_scrapyard
+  base_building_output = { good = scrap amount = 10 }
+  base_building_input  = { good = ammo amount = 20 }
+}
+
+pm_clinic = {
+  building = building_clinic
+  base_building_output = { good = meds amount = 10 }
+}
