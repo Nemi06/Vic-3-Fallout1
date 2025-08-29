@@ -1,0 +1,29 @@
+clean_water = {
+    texture = "gfx/interface/icons/goods/clean_water.png"
+    category = staples
+}
+
+scrap = {
+    texture = "gfx/interface/icons/goods/scrap.png"
+    category = industrial_goods
+}
+
+ammo = {
+    texture = "gfx/interface/icons/goods/ammo.png"
+    category = military_goods
+}
+
+canned_food = {
+    texture = "gfx/interface/icons/goods/canned_food.png"
+    category = staples
+}
+
+energy_cells = {
+    texture = "gfx/interface/icons/goods/energy_cells.png"
+    category = energy
+}
+
+meds = {
+    texture = "gfx/interface/icons/goods/meds.png"
+    category = services
+}
