@@ -1,0 +1,15 @@
+namespace = deadmoney
+
+event deadmoney.example_event {
+  id = deadmoney.1
+  title = deadmoney_example_event_title
+  desc = deadmoney_example_event_desc
+  picture = "gfx/interface/illustrations/vault_entrance.dds"
+  trigger = { always = yes }
+  immediate = { }
+  option = {
+    name = deadmoney_example_event_option
+    ai_chance = { base = 1 }
+    effect = { }
+  }
+}
