@@ -1,0 +1,17 @@
+building_water_purifier = {
+  texture = "gfx/interface/icons/buildings/water_purifier.dds"
+  production_methods = { pm_simple_filters pm_advanced_filters }
+  levels_per_empire = yes
+}
+
+building_scrapyard = {
+  texture = "gfx/interface/icons/buildings/scrapyard.dds"
+  production_methods = { pm_basic_recycling }
+  levels_per_empire = yes
+}
+
+building_clinic = {
+  texture = "gfx/interface/icons/buildings/clinic.dds"
+  production_methods = { pm_clinic }
+  levels_per_empire = yes
+}
